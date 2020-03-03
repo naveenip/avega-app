@@ -1,0 +1,33 @@
+.header {
+    height: 140px;
+    margin-top:-8px;
+    display: flex;
+    align-items: center;
+    background-color: #9aa3c5;
+    padding: 10px;
+    justify-content: center
+  }
+
+.header-img{
+    height: 100px;
+    margin:-6px;
+    border-radius: 50%;
+  }
+  .company-logo{
+      width:33%;
+  }
+
+  .company-title{
+      color:#000;
+      width:70%;
+      h5{
+          padding-left: 5rem;
+          font-size:14px;
+      }
+  }
+
+  .company-navbar{
+      .nav-last{
+         width:74rem;
+      }
+  }
